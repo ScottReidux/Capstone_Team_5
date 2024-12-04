@@ -42,8 +42,11 @@ https://www.kaggle.com/datasets/webdevbadger/federal-grants-and-funding-opportun
   
 ### Model Optimization
 - Capstone_Project_RNN_2.2_Auto_Tune.ipynb
+- - Caused too much overfitting
 - Capstone_Project_RNN_2.3_Fine_Tune.ipynb
-- 
+- - Caused too much overfitting
+- Capstone_Project_RNN_2.4.ipynb
 
  ### Model Analysis
-
+- Capstone_Project_RNN_2.5.ipynb
+- - Final model and evaluation
