@@ -27,16 +27,23 @@ For this project we built an RNN model to classify grants into catagories based 
 https://www.kaggle.com/datasets/webdevbadger/federal-grants-and-funding-opportunities
 
 ### Data Cleaning
+- Capstone_Project.ipynb
+- Capstone_Project EDA Update.ipynb
 
-Welcome aboard fellow developer, this is where you will find Python scripts which you are free to contribute to.
-You can contribute by submitting your own scripts, also written in Python, which you think would be amazing for other
-people to see.
+### Exploratory Data Analysis
+- Capstone_Project EDA Update_1.1.ipynb
+- Capstone_Project EDA Update_1.2.ipynb
 
+### Model Design/Building
+- Capstone_Project_RNN_FFNN.ipynb
+  
+### Model Training
+- Capstone_Project_RNN_2.1.ipynb
+  
+### Model Optimization
+- Capstone_Project_RNN_2.2_Auto_Tune.ipynb
+- Capstone_Project_RNN_2.3_Fine_Tune.ipynb
+- 
 
-- Data Cleaning
-- Exploratory Data Analysis
-- Model Design/Building
-- Model Training
-- Model Optimization
-- Model Analysis
+ ### Model Analysis
 
