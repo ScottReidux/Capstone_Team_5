@@ -33,6 +33,7 @@ https://www.kaggle.com/datasets/webdevbadger/federal-grants-and-funding-opportun
 ### Exploratory Data Analysis
 - Capstone_Project EDA Update_1.1.ipynb
 - Capstone_Project EDA Update_1.2.ipynb
+- - Includes BertTopic model
 
 ### Model Design/Building
 - Capstone_Project_RNN_FFNN.ipynb
