@@ -36,9 +36,12 @@ https://www.kaggle.com/datasets/webdevbadger/federal-grants-and-funding-opportun
 
 ### Model Design/Building
 - Capstone_Project_RNN_FFNN.ipynb
+- tokenizer.pkl
+- label_encoder.pkl
   
 ### Model Training
 - Capstone_Project_RNN_2.1.ipynb
+- rnn_funding_category_model_2.5.h5
   
 ### Model Optimization
 - Capstone_Project_RNN_2.2_Auto_Tune.ipynb
