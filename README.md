@@ -55,6 +55,7 @@ https://www.kaggle.com/datasets/webdevbadger/federal-grants-and-funding-opportun
  ### Model Analysis
 - Capstone_Project_RNN_2.5.ipynb
 - Capstone_Project_RNN_2.6.ipynb
+- Capstone_Project_RNN_2.7.ipynb
 - - Final RNN and BERTopic model and evaluation
 
 
