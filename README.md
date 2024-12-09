@@ -22,6 +22,12 @@ funding.
 
 For this project we built an RNN model to classify grants into catagories based on thier title, and compare that to the classifications that BerTopic produced.
 
+### Final Notebook
+- Capstone_Project_Final.ipynb
+- - Includes EDA through the final code
+  - Everything below includes the steps taken to get to the final notebook
+
+
 ### Dataset
 
 https://www.kaggle.com/datasets/webdevbadger/federal-grants-and-funding-opportunities
@@ -57,6 +63,8 @@ https://www.kaggle.com/datasets/webdevbadger/federal-grants-and-funding-opportun
 - Capstone_Project_RNN_3.1.ipynb
 - Capstone_Project_RNN_3_3.ipynb
 - - Final RNN and BERTopic model and evaluation
+- Capstone_Project_Final.ipynb
+- -Final notebook with EDA and models
 
 
 
