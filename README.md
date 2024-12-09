@@ -23,7 +23,7 @@ funding.
 For this project we built an RNN model to classify grants into catagories based on thier title, and compare that to the classifications that BerTopic produced.
 
 ### Final Notebook
-- Capstone_Project_Final.ipynb
+- [Capstone_Project_Final.ipynb](https://github.com/ScottReidux/Capstone_Team_5/blob/main/Capstone_Project_Final.ipynb)
 - - Includes EDA through the final code
   - Everything below includes the steps taken to get to the final notebook
 
